@@ -1,0 +1,4 @@
+This challenge is very similar to Session 1, except that you no longer have the search engine to play with. 
+Is there another way you can add or modify the code?
+
+http://10.0.0.5/session2/JRzOluXV/index.php
